@@ -20,7 +20,7 @@ int print_string(char *str)
 {
     int count;
 
-    count - 0;
+    count = 0;
     while(*str != '\0')
     {
         print_char((int)*str);
